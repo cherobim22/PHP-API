@@ -1,7 +1,8 @@
 # PHP-Laravel
 Controle de imoveis utilizando Laravel com Mysql.
-
-composer install
+```sh
+$ composer install
+```
 
 ## Tests
    - Importe o arquivo imoveis.sql
