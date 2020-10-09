@@ -2,7 +2,5 @@
 Controle de imoveis utilizando Laravel com Mysql.
 ```sh
 $ composer install
+$ php artisan serve 
 ```
-
-## Tests
-   - Start Server -- php artisan serve 
